@@ -1,0 +1,9 @@
+
+    {
+        "maNhanVien": 0,
+        "tenNhanVien": "string",
+        "chucVu": "string",
+        "heSoChucVu": 0,
+        "luongCoBan": 0,
+        "soGioLam": 0
+    }
